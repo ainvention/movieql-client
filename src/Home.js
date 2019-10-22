@@ -1,5 +1,10 @@
 import React from "react";
+import Query from "react-apollo";
 
-const Home = () => "Home";
+function Home(){
+    return(
+        <div>Home</div>
+    );
+};
 
 export default Home;
